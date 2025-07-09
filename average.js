@@ -14,6 +14,6 @@ confirmb.addEventListener('click', function(){
     let average = sum / array.length
     console.log(average)
     aaa.textContent = average
-})
+});
 
 
